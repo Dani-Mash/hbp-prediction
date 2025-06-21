@@ -49,6 +49,14 @@ Maccabi_Home_Task/
 └── Clinical_Data_Analysis_Report.pdf   # Comprehensive analysis report
 ```
 
+## Data Access
+
+Due to GitHub file size limits, the full raw dataset (`ds_assignment_data.csv`) is hosted externally and can be accessed via:
+
+**[Download Dataset from Google Drive](https://drive.google.com/file/d/1dLdOwsVMcBKjOdHh22V8jrNtEJr1Vana/view?usp=sharing)**
+
+To run the notebook successfully, download the file and place it in the root directory of the project.
+
 ## Data Requirements
 
 ### Input Dataset
